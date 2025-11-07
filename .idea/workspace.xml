@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="792820e7-473d-487d-8ed2-217fc10f3fbe" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
