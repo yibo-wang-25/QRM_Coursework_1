@@ -22,15 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yibo-wang-25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yibo-wang-25&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/yibo-wang-25/QRM_Coursework_1",
+    "url": "git@github.com:yibo-wang-25/QRM_Coursework_1.git",
     "accountId": "96ab1472-7aa5-4fe6-8198-92e926061040"
   }
 }]]></component>
@@ -76,6 +76,7 @@
       <workItem from="1762536300843" duration="16200000" />
       <workItem from="1762727244149" duration="16934000" />
       <workItem from="1763042809029" duration="1573000" />
+      <workItem from="1763047930374" duration="7000" />
     </task>
     <servers />
   </component>
