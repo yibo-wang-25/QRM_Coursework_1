@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792820e7-473d-487d-8ed2-217fc10f3fbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JupyterProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_A_Stylised_facts_GARCH_modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part_A_Stylised_facts_GARCH_modelling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yibo-wang-25"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yibo-wang-25/QRM_Coursework_1",
+    "accountId": "96ab1472-7aa5-4fe6-8198-92e926061040"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -65,6 +75,7 @@
       <workItem from="1762536205468" duration="4000" />
       <workItem from="1762536300843" duration="16200000" />
       <workItem from="1762727244149" duration="16934000" />
+      <workItem from="1763042809029" duration="1573000" />
     </task>
     <servers />
   </component>
