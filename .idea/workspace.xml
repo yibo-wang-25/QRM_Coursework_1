@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792820e7-473d-487d-8ed2-217fc10f3fbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="792820e7-473d-487d-8ed2-217fc10f3fbe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +26,12 @@
     &quot;assignee&quot;: &quot;yibo-wang-25&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:yibo-wang-25/QRM_Coursework_1.git",
-    "accountId": "96ab1472-7aa5-4fe6-8198-92e926061040"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:yibo-wang-25/QRM_Coursework_1.git&quot;,
+    &quot;accountId&quot;: &quot;96ab1472-7aa5-4fe6-8198-92e926061040&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -77,10 +75,22 @@
       <workItem from="1762727244149" duration="16934000" />
       <workItem from="1763042809029" duration="1573000" />
       <workItem from="1763047930374" duration="7000" />
+      <workItem from="1763422895725" duration="38000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
