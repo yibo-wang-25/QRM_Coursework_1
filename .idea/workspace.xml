@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792820e7-473d-487d-8ed2-217fc10f3fbe" name="Changes" comment="Add Fz figures and comments on Part B">
-      <change beforePath="$PROJECT_DIR$/Part_B/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part_B/code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_A/.ipynb_checkpoints/Part_B_Risk_Measures-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_B/.ipynb_checkpoints/Part_B_Risk_Measures-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_B/code.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
